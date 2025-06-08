@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @najazul
-- 👀 I’m interested in FP and OOP
-- 🌱 I’m currently learning C++ and Python
+- 👋 Hi, I’m Norman Jazul, a passionate backend developer
+- 👀 I’m interested in Cybersecurity and Cloud development
+- 📔 My techstack includes: Django, React and Expo (React Native), Godot, PostgreSQL
 - 📫 How to reach me:
         email: najazul@up.edu.ph
 - 😄 Pronouns: He/Him
