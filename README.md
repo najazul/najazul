@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity and Cloud development
 - 📔 My techstack includes: Django, React and Expo (React Native), Godot, PostgreSQL
 - 📫 How to reach me:
-        email: najazul@up.edu.ph
+        email: normanjrjazul@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't have much interest in frontend development
 
