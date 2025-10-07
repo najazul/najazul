@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Norman Jazul, a passionate backend developer
 - 👀 I’m interested in Cybersecurity and Cloud development
-- 📔 My techstack includes: Django, React and Expo (React Native), Godot, PostgreSQL
+- 📔 My techstack includes: Django, React, Godot, PostgreSQL
 - 📫 How to reach me:
         email: normanjrjazul@gmail.com
 - 😄 Pronouns: He/Him
